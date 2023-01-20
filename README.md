@@ -1,2 +1,2 @@
 # Portfolio
-Html and css
+Html and CSS
