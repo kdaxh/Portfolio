@@ -1,3 +1,3 @@
 # Portfolio
 
-By hTML and CSS
+By htML and CSS
