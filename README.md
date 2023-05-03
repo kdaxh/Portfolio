@@ -1,3 +1,3 @@
 # Portfolio website
 
-By html & css
+By html & cs
